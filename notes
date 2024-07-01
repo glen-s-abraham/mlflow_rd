@@ -1,0 +1,2 @@
+###Startup command
+mlflow server --backend-store-uri sqlite:///C:/Users/iss211/mlops/metrics_store/mflow.db --default-artifact-root C:/Users/iss211/mlops/artifacts_store/
